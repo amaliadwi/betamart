@@ -1,0 +1,11 @@
+C:\Users\amali\source\repos\BetaMart\BetaMart\bin\Debug\mydb.accdb
+C:\Users\amali\source\repos\BetaMart\BetaMart\bin\Debug\BetaMart.exe.config
+C:\Users\amali\source\repos\BetaMart\BetaMart\bin\Debug\BetaMart.exe
+C:\Users\amali\source\repos\BetaMart\BetaMart\bin\Debug\BetaMart.pdb
+C:\Users\amali\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.AssemblyReference.cache
+C:\Users\amali\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.Form1.resources
+C:\Users\amali\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.Properties.Resources.resources
+C:\Users\amali\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.GenerateResource.cache
+C:\Users\amali\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.csproj.CoreCompileInputs.cache
+C:\Users\amali\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.exe
+C:\Users\amali\source\repos\BetaMart\BetaMart\obj\Debug\BetaMart.pdb
